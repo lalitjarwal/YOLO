@@ -26,23 +26,23 @@
         inset 2px 2px 4px rgba(255,255,255,0.1),
         2px 2px 8px rgba(0,0,0,0.15);
 }
-
+/**/
 .neu-navbar .neu-navbar-brand {
     padding: 10px;
     border-radius: inherit;
-    box-shadow: inset -2px -2px 8px rgba(255,255,255,1),
-        inset -2px -2px 12px rgba(255,255,255,0.5),
+    box-shadow:  -2px -2px 8px rgba(255,255,255,1),
+         -2px -2px 12px rgba(255,255,255,0.5),
         inset 2px 2px 4px rgba(255,255,255,0.1),
-        inset 2px 2px 8px rgba(0,0,0,0.15);
+         2px 2px 8px rgba(0,0,0,0.15);
 }
 
 .neu-navbar .neu-navbar-brand:hover {
     padding: 10px;
     border-radius: inherit;
-    box-shadow: -2px -2px 8px rgba(255,255,255,1),
-        -2px -2px 12px rgba(255,255,255,0.5),
+    box-shadow: inset -2px -2px 8px rgba(255,255,255,1),
+        inset -2px -2px 12px rgba(255,255,255,0.5),
         inset 2px 2px 4px rgba(255,255,255,0.1),
-        2px 2px 8px rgba(0,0,0,0.15);
+       inset 2px 2px 8px rgba(0,0,0,0.15);
 }
 
 .neu-navbar .neu-nav-item {
@@ -75,9 +75,9 @@
 }
 
 .neu-navbar .neu-search-button {
-    color: #fff;
+    color: #000;
     font-weight:500;
-    background-color: #5a84a2;
+    background-color: #ececec;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
